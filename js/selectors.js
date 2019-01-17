@@ -14,7 +14,7 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  // use a class selector to return two divs with class 'pics'
+  return $('div')
 }
 
 function firstListItem() {
