@@ -14,7 +14,7 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return $('div')
+  return $('.div')
 }
 
 function firstListItem() {
