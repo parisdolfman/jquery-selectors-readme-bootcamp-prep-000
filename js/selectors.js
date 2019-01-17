@@ -18,5 +18,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-  return $('ul li')
+  return $('parent-tag child-tag:first-child')
 }
