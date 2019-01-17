@@ -10,7 +10,7 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  // use ID selector to return ninja baby image
+  $('#baby-ninja')
 }
 
 function divSelector() {
